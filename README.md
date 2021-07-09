@@ -12,7 +12,7 @@
     - [✅ Arrays](#-arrays)
     - [✅ Hashtables](#-hashtables)
     - [✅ Loops](#-loops)
-    - [Conditionals](#conditionals)
+    - [✅ Conditionals](#-conditionals)
     - [Functions](#functions)
     - [✅ (Optional) Aliases](#-optional-aliases)
   - [A little more advanced](#a-little-more-advanced)
@@ -30,9 +30,7 @@
 
 ## Introduction
 
-THe goal of this repository is to give you examples and lessons for learning PowerShell.
-
-
+The goal of this repository is to give you examples and lessons for learning PowerShell.
 
 ## Warning
 
@@ -42,6 +40,12 @@ Even though this is common sense, I need to put it in there:
 ***Always* read the code before running it.**
 
 ## Prerequisites and useful resources
+
+The lessons in here are all based on PowerShell 7, and using VSCode as the editor. You can download them here:
+
+[Installing PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell?view=powershell-7.1)
+[Installing VSCode](https://code.visualstudio.com/docs/setup/setup-overview)
+[PowerShell in VSCode](https://code.visualstudio.com/docs/languages/powershell)
 
 [PowerShell official documentation](https://docs.microsoft.com/en-us/powershell/)
 [PowerShell About Topics](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about?view=powershell-7.1): Those articles are great for learning about specific topics in PowerShell which are not necessarily cmdlets or modules.
@@ -85,7 +89,11 @@ Loops are one of the best parts of programming. It allows you to do the same thi
 
 [Lesson](Loops/loops.md)
 
-### Conditionals
+### ✅ Conditionals
+
+When you write code, you often have to handle different scenarios, that's where conditional statements come in.
+
+[Lesson](Conditionals/conditionals.md)
 
 ### Functions
 
