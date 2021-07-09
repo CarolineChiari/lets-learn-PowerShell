@@ -8,7 +8,7 @@
   - [The basics](#the-basics)
     - [✅ Cmdlets](#-cmdlets)
     - [✅ Variables](#-variables)
-    - [Strings](#strings)
+    - [✅ Strings](#-strings)
     - [✅ Arrays](#-arrays)
     - [✅ Hashtables](#-hashtables)
     - [✅ Loops](#-loops)
@@ -44,6 +44,7 @@ Even though this is common sense, I need to put it in there:
 ## Prerequisites and useful resources
 
 [PowerShell official documentation](https://docs.microsoft.com/en-us/powershell/)
+[PowerShell About Topics](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about?view=powershell-7.1): Those articles are great for learning about specific topics in PowerShell which are not necessarily cmdlets or modules.
 
 ## The basics
 
@@ -60,10 +61,11 @@ Variables are a way to store information so that it can be used later.
 
 [Lesson](Variables/variables.md)
 
-### Strings
+### ✅ Strings
 
 Strings deserve their own section because they are usually used for storing data and giving the user feedback. That's why it's important to learn how to form strings.
 
+[Lesson](Strings/strings.md)
 
 ### ✅ Arrays
 
