@@ -1,5 +1,6 @@
 # Let's Learn PowerShell
 
+
 - [Let's Learn PowerShell](#lets-learn-powershell)
   - [Introduction](#introduction)
   - [Warning](#warning)
@@ -7,13 +8,15 @@
   - [The basics](#the-basics)
     - [✅ Cmdlets](#-cmdlets)
     - [✅ Variables](#-variables)
+    - [Strings](#strings)
     - [✅ Arrays](#-arrays)
     - [✅ Hashtables](#-hashtables)
-    - [Loops](#loops)
+    - [✅ Loops](#-loops)
     - [Conditionals](#conditionals)
     - [Functions](#functions)
-    - [(Optional) Aliases](#optional-aliases)
+    - [✅ (Optional) Aliases](#-optional-aliases)
   - [A little more advanced](#a-little-more-advanced)
+    - [Pipes](#pipes)
     - [Advanced functions](#advanced-functions)
     - [Start-job](#start-job)
     - [Workflows](#workflows)
@@ -22,11 +25,14 @@
     - [ARM templates](#arm-templates)
     - [Azure Functions](#azure-functions)
     - [Azure Automation](#azure-automation)
-    - [](#)
+
+✅ = Lesson Completed
 
 ## Introduction
 
 THe goal of this repository is to give you examples and lessons for learning PowerShell.
+
+
 
 ## Warning
 
@@ -54,6 +60,11 @@ Variables are a way to store information so that it can be used later.
 
 [Lesson](Variables/variables.md)
 
+### Strings
+
+Strings deserve their own section because they are usually used for storing data and giving the user feedback. That's why it's important to learn how to form strings.
+
+
 ### ✅ Arrays
 
 Arrays are a collection of values, it allows you to store multiple values in one object. Think of it as a list for your groceries, the piece of paper is the array and each item is a element of the array.
@@ -66,19 +77,25 @@ Hashtables are a data structure that allows you to store data similar to an arra
 
 [Lesson](Hashtables/hashtables.md)
 
-### Loops
+### ✅ Loops
+
+Loops are one of the best parts of programming. It allows you to do the same thing over and over again without having to writing the same thing over and over again.
+
+[Lesson](Loops/loops.md)
 
 ### Conditionals
 
 ### Functions
 
-### (Optional) Aliases
+### ✅ (Optional) Aliases
 
 Aliases are a shortened way to invoke cmdlets and other PowerShell entities. **They are not considered best practice and should be avoided as much as possible**. They are only in this lesson plan because some people do use them and it can be useful for you to know them. There will be no lesson about them, but feel free to read the documentation about them:
 
 [Documentation](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_aliases?view=powershell-7.1)
 
 ## A little more advanced
+
+### Pipes
 
 ### Advanced functions
 
@@ -96,4 +113,3 @@ Aliases are a shortened way to invoke cmdlets and other PowerShell entities. **T
 
 ### Azure Automation
 
-### 
