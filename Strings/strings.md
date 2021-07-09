@@ -1,5 +1,14 @@
 # Strings
 
+- [Strings](#strings)
+  - [Introduction](#introduction)
+  - [Two types of strings](#two-types-of-strings)
+    - [The single quote (literal) string](#the-single-quote-literal-string)
+    - [The double quote string](#the-double-quote-string)
+  - [Building strings](#building-strings)
+    - [Using `+`](#using-)
+    - [Using the double quote string](#using-the-double-quote-string)
+
 ## Introduction
 
 Strings deserve their own section because they are usually used for storing data and giving the user feedback. That's why it's important to learn how to form strings.

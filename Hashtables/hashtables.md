@@ -1,5 +1,16 @@
 # Hashtables
 
+- [Hashtables](#hashtables)
+  - [Introduction](#introduction)
+  - [Creating a hashtable](#creating-a-hashtable)
+    - [Starting from a blank hashtable](#starting-from-a-blank-hashtable)
+    - [Creating a hashtable directly](#creating-a-hashtable-directly)
+  - [Reading a hashtable](#reading-a-hashtable)
+    - [Reading a value using a key](#reading-a-value-using-a-key)
+    - [Reading multiple values using multiple keys](#reading-multiple-values-using-multiple-keys)
+    - [Getting all the keys](#getting-all-the-keys)
+    - [Checking if a key exists](#checking-if-a-key-exists)
+
 ## Introduction
 
 Hashtables are a data structure that allows you to store data similar to an array except it is stored in key/value pairs. Think of it as a dictionary ( which is also another term use to name a hashtable), you search for a word and you get the definition. A hashtable allows you do do things like this:

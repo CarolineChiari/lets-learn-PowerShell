@@ -1,5 +1,13 @@
 # Conditionals
 
+- [Conditionals](#conditionals)
+  - [Introduction](#introduction)
+  - [Operators](#operators)
+  - [If](#if)
+  - [If/Else](#ifelse)
+  - [If/Elseif/Else](#ifelseifelse)
+  - [Switch](#switch)
+
 ## Introduction
 
 When you write code, you often have to handle different scenarios, that's where conditional statements come in.

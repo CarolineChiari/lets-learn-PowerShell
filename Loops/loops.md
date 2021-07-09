@@ -1,5 +1,12 @@
 # Loops
 
+- [Loops](#loops)
+  - [Introduction](#introduction)
+  - [Foreach loop](#foreach-loop)
+  - [While loop](#while-loop)
+  - [Do While loop](#do-while-loop)
+  - [For loop](#for-loop)
+
 ## Introduction
 
 Loops are one of the best parts of programming. It allows you to do the same thing over and over again without having to writing the same thing over and over again.

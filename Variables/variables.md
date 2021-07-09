@@ -1,5 +1,11 @@
 # Variables
 
+- [Variables](#variables)
+  - [Introduction](#introduction)
+  - [Syntax](#syntax)
+  - [Creating a Variable](#creating-a-variable)
+  - [Automatic Variables](#automatic-variables)
+
 ## Introduction
 
 Variables are a way to store information so that it can be used later.

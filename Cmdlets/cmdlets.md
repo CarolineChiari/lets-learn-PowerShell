@@ -1,5 +1,17 @@
 # Cmdlets
 
+- [Cmdlets](#cmdlets)
+  - [Introduction](#introduction)
+  - [Structure](#structure)
+  - [Common verbs you should know](#common-verbs-you-should-know)
+    - [New](#new)
+    - [Get](#get)
+    - [Set](#set)
+    - [Remove](#remove)
+    - [Write](#write)
+  - [Parameters](#parameters)
+  - [Parameter sets](#parameter-sets)
+
 ## Introduction
 
 Cmdlets (pronounces 'command lets') are commands in PowerShell used to run actions.
