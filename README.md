@@ -59,50 +59,50 @@ The lessons in here are all based on PowerShell 7, and using VSCode as the edito
 
 Cmdlets (pronounces 'command lets') are commands in PowerShell used to run actions.
 
-[Lesson](Cmdlets/cmdlets.md)
-[Code](Cmdlets/cmdlets.ps1)
+[Lesson](Lessons/Cmdlets/cmdlets.md)
+[Code](Lessons/Cmdlets/cmdlets.ps1)
 
 ### ✅ Variables
 
 Variables are a way to store information so that it can be used later.
 
-[Lesson](Variables/variables.md)
+[Lesson](Lessons/Variables/variables.md)
 
 ### ✅ Strings
 
 Strings deserve their own section because they are usually used for storing data and giving the user feedback. That's why it's important to learn how to form strings.
 
-[Lesson](Strings/strings.md)
+[Lesson](Lessons/Strings/strings.md)
 
 ### ✅ Arrays
 
 Arrays are a collection of values, it allows you to store multiple values in one object. Think of it as a list for your groceries, the piece of paper is the array and each item is a element of the array.
 
-[Lesson](Arrays/arrays.md)
+[Lesson](Lessons/Arrays/arrays.md)
 
 ### ✅ Hashtables
 
 Hashtables are a data structure that allows you to store data similar to an array except it is stored in key/value pairs.
 
-[Lesson](Hashtables/hashtables.md)
+[Lesson](Lessons/Hashtables/hashtables.md)
 
 ### ✅ Loops
 
 Loops are one of the best parts of programming. It allows you to do the same thing over and over again without having to writing the same thing over and over again.
 
-[Lesson](Loops/loops.md)
+[Lesson](Lessons/Loops/loops.md)
 
 ### ✅ Conditionals
 
 When you write code, you often have to handle different scenarios, that's where conditional statements come in.
 
-[Lesson](Conditionals/conditionals.md)
+[Lesson](Lessons/Conditionals/conditionals.md)
 
 ### ✅ Functions
 
 If you have to perform the same actions over and over again and every time it takes a few lines of code to do it, then functions are your friend!
 
-[Lesson](Functions/functions.md)
+[Lesson](Lessons/Functions/functions.md)
 
 ### ✅ (Optional) Aliases
 
