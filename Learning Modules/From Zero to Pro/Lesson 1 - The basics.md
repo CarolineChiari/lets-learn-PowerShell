@@ -19,22 +19,22 @@
   - [Filtering Data](#filtering-data)
   - [Exporting Data](#exporting-data)
 
-
-
 ## Learning outcomes
 
 The goal of this lesson is to get you acquainted with the PowerShell console. We will focus exclusively on the console and mastering the basics of the PowerShell console.
 
 ### Topic covered
--	Cmdlets
--	Pipes
--	Variables
--	CMD/PowerShell/Shell Equivalents
--	Get-Help
+
+- Cmdlets
+- Pipes
+- Variables
+- CMD/PowerShell/Shell Equivalents
+- Get-Help
 
 ### What you will be able to do at the end
 
 After going through this lesson, you should be able to perform the following actions:
+
 - Run PowerShell commands in the console.
 - Get information about a PowerShell command from the console or the official documentation
 - Store data in variables to be used later
@@ -50,7 +50,13 @@ In order to successfully follow along and ensure that the code, commands and beh
 
 ## Introduction
 
+PowerShell is an administration tool designed to wrap around multiple frameworks such as .Net, WMI. and other APIs. The idea behind PowerShell is to give administrators access to those low level components of software and operating systems without needing to be familiar with the concepts of those frameworks.
+
+Even though PowerShell is initially intended for administrators, it can be (and has been) use as a full blown programming language.
+
 ## Console tour
+
+> 🤔  **Note**: The console interface on the Windows Operating system, and the linux/macOS operating systems are different. The Windows Operating system has its own dedicated program (`pwsh.exe`) whereas the Linux/MacOS operating systems rely on the terminal in those operating systems.
 
 ## Running Shell/CMD commands
 
